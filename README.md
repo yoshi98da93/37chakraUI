@@ -1,2 +1,2 @@
-# 37chakraUI
+# chakraUI
 Created with CodeSandbox
